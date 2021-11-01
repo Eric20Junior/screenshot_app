@@ -25,15 +25,9 @@ body{
   .image {
     margin-top: 10vh;
     height: 50vh;
-    width: 50vw;
     font-size: 2rem;
     background-color: white;
     border-radius: 6px;
-  }
-  
-  @media screen and (max-width: 320px) {
-    body { background-color: red;
-    }
   }
   
   .screenshot {
