@@ -1,4 +1,4 @@
-[image](./screenshot.png)
+![image](./screenshot.png)
 # screenshot_app
 - [click me](https://screenshot-app-nu.vercel.app/)
 # Screenshot App Documentation
