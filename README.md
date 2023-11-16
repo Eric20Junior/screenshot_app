@@ -13,8 +13,8 @@
 - To get started with the Screenshot App, follow these steps:
 
 ## Clone the repository:
-`git clone git@github.com:Eric20Junior/screenshot_app.git`
-`cd screenshot_app`
+- `git clone git@github.com:Eric20Junior/screenshot_app.git`
+- `cd screenshot_app`
 - Go to `shot.screenshotapi.net` and get ur api key and input it in `script.js`
 
 # Usage
