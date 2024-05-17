@@ -3,12 +3,13 @@
 - [click me](https://screenshot-app-nu.vercel.app/)
 # Screenshot App Documentation
 ## Introduction
-- Welcome to our Screenshot App! This application allows users to capture screenshots of web pages by providing a URL. The app leverages a third-party API to achieve the screenshot functionality seamlessly.
+- Welcome to our Screenshot App! This application enables users to capture screenshots of web pages by providing a URL. By leveraging a third-party API, the app seamlessly retrieves and displays screenshots, providing a user-friendly interface for quick and easy web captures.
 
 ## Table of Contents
 - Getting Started
 - Usage
-- 
+- API integration
+  
 ## Getting Started
 - To get started with the Screenshot App, follow these steps:
 
