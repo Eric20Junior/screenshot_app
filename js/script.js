@@ -5,7 +5,7 @@ async function loadImage() {
   // This retrieves the URL entered by the user in an input field with the ID url.
   let formUrl = document.getElementById('url').value
   // This is a hardcoded API token used for authentication with the screenshot API.
-  let token = "WE92GZP-TFF46AR-JPSYG3D-N1BQ83X"
+  let token = "YJZC0QD-9CQ4MXW-GC5BVP7-N8ZSK6Z"
   //  This constructs the API endpoint URL by embedding the token and the user-provided URL.
   let url = `https://shot.screenshotapi.net/screenshot?token=${token}&url=${formUrl}`
 
